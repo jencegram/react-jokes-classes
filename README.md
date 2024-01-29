@@ -15,7 +15,7 @@ The CheeZJokes App is a simple, educational exercise designed to demonstrate the
 1. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/your-username/cheezjokes.git](https://github.com/jencegram/react-jokes-classes.git)
+   git clone [https://github.com/jencegram/react-jokes-classes.git]
    cd cheezjokes
 
    ```
